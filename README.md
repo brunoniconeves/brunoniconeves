@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 
-- 🔭 I’m currently working on [Magnilearn](https://www.magnilearn.com)
+- 🔭 I’m currently working on [Magnilearn]([MagniLearn Team](https://www.magnilearn.com/company))
 
 - 🌱 I’m currently learning **Flutter Animations**
 
