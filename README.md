@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Magnilearn]([MagniLearn Team](https://www.magnilearn.com/company))
 
-- 🌱 I’m currently learning **Advanced Javascript topics (real time communication and streams)**
+- 🌱 I’m currently learning **Advanced Javascript topics (real-time communication and streams)**
 
 - 💬 Ask me about **Javascript, Flutter, C#, Oracle Apex, AWS and frontend development**
 
