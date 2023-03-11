@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Magnilearn]([MagniLearn Team](https://www.magnilearn.com/company))
 
-- 🌱 I’m currently learning **Flutter Animations**
+- 🌱 I’m currently learning **Advanced Javascript topics (realtime communication and streams)**
 
-- 💬 Ask me about **Flutter, C#, AWS and frontend development**
+- 💬 Ask me about **Javascript, Flutter, C#, Oracle Apex, AWS and frontend development**
 
 - 📫 How to reach me **brunoniconeves@gmail.com**
 
